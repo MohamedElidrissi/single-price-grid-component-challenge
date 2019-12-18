@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Karla:400,700&display=swap");
+
+@tailwind base;
+
+@tailwind components;
+
+.transition {
+  transition: all 200ms ease-in;
+}
+
+@tailwind utilities;
